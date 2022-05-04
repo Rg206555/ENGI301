@@ -1,0 +1,12 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"AVAILABILITY";"COPYRIGHT";"CUI_PURCHASE_URL";"DESCRIPTION";"MANUFACTURER_PART_NUMBER";"MF";"MFR_NAME";"MP";"PACKAGE";"PRICE";"PURCHASE-URL";
+"7";"";"R_R0603";"R0603";"R3, R4, R5, R6, R7, R8, R9";"RESISTOR, American symbol";"";"";"";"";"";"";"";"";"";"";"";
+"1";"12V_POWERJACK";"12V_POWERJACK";"CUI_PJ-102BH";"J1";"2.5 mm Center Pin, 5.0 A, Right Angle, Through Hole, Tapered Pins, Dc Power Jack Connector Check availability";"In Stock";"";"https://www.cuidevices.com/product/interconnect/connectors/dc-power-connectors/jacks/pj-102bh?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM";" 2.5 x 6.5 mm, 5.0 A, Horizontal, Through Hole, Tapered Pins, Dc Power Jack Connector ";"";"CUI Devices";"";"PJ-102BH";"None";"None";"https://pricing.snapeda.com/search/part/PJ-102BH/?ref=eda";
+"1";"7V_DCMOTOR";"7V_DCMOTOR";"7V_DCMOTOR";"U$4";"";"";"";"";"";"";"";"";"";"";"";"";
+"1";"DRV8833PWP";"DRV8833PWP";"IC_DRV8833PWP";"U3";"10.8-V, 2-A dual H-bridge motor driver with current regulation 16-HTSSOP -40 to 85   Check availability";"In Stock";"";"";" 10.8-V, 2-A dual H-bridge motor driver with current regulation ";"";"Texas Instruments";"";"DRV8833PWP";"HTSSOP-16 Texas Instruments";"None";"https://pricing.snapeda.com/search/part/DRV8833PWP/?ref=eda";
+"1";"LCD_16X2";"LCD_16X2";"LCD_RC1602B-BIW-CSV";"DS1";"Display: LCD; alphanumeric; STN Negative; 16x2; blue; LED; PIN: 16 Check availability";"Not in stock";"";"";" Display: LCD";" alphanumeric";" STN Negative";" 16x2";" blue";" LED";" PIN: 16 ";"";
+"1";"POCKETBEAGLE";"POCKETBEAGLE";"POCKETBEAGLE";"U$1";"";"";"";"";"";"";"";"";"";"";"";"";
+"2";"POTENTIOMETER";"POTENTIOMETER";"POT-PO90S";"R1, R2";"Potentiometer - Examples:";"";"";"";"";"";"";"";"";"";"";"";
+"1";"PUSH_BUTTON";"PUSH_BUTTON";"BUTTON_12.5MM";"SW1";"";"";"";"";"";"";"";"";"";"";"";"";
+"1";"RGB_LED_STRIP";"RGB_LED_STRIP";"LED_STRIP";"U$3";"";"";"";"";"";"";"";"";"";"";"";"";
+"2";"SERVO_SG90";"SERVO_SG90";"SERVO-X1";"U4, U5";"";"";"";"";"";"";"";"";"";"";"";"";
+"2";"STEPDOWN";"STEPDOWN";"IC4_DFR0067_DFR";"U1, U2";"";"";"Copyright (C) 2022 Ultra Librarian. All rights reserved.";"";"";"DFR0067";"";"DFRobot";"";"";"";"";
