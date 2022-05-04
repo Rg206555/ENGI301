@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-05-04T10:17:30Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Engine_Stroke"
+        },
+        "Owner": "rg64 rg64 <rg64@rice.edu>",
+        "Size": {
+            "X": 101.6,
+            "Y": 81.28
+        }
+    }
+}
